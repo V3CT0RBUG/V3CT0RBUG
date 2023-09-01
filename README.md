@@ -9,7 +9,8 @@
   </p>
 <p align="right"><b><samp>」</samp></b></p>
 
-<img align="left" src="https://lanyard.cnrad.dev/api/401998007165386762?idleMessage=Possibly%20writing%20code..." alt="Discord Status"><img align="right" src="https://github-readme-stats.vercel.app/api?username=V3CT0RBUG&theme=darcula&show_icons=true&count_private=true">
+<img align="left" src="https://lanyard.cnrad.dev/api/401998007165386762?idleMessage=Possibly%20writing%20code..." alt="Discord Status">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=V3CT0RBUG&theme=darcula&show_icons=true&count_private=true">
 
 ## Contact Me
 - [Twitter](https://twitter.com/V3CT0RBUG)
