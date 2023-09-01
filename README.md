@@ -10,6 +10,7 @@
 <p align="right"><b><samp>」</samp></b></p>
 
 <img align="right" src="https://lanyard.cnrad.dev/api/401998007165386762?idleMessage=Possibly%20writing%20code..." alt="Discord Status">
+<br>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=V3CT0RBUG&theme=darcula&show_icons=true&count_private=true">
 
 
