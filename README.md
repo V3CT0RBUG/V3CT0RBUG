@@ -31,3 +31,9 @@
    <img align="center" alt="Rafa-ELECTRON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
   </a>
 </div>
+
+<div align="center">
+
+![](https://typograssy.deno.dev/api?text=私はいばらさん!&l0=none&bg=none&frame=none&speed=100&comment=)
+
+</div>
