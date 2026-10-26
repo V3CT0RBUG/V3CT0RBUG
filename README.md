@@ -17,7 +17,7 @@
 - [Twitch](https://www.twitch.tv/v3ct0rbug)
 - [Discord](https://discord.com/users/401998007165386762)
 - [AnimeGenzai](https://animegenzai.net)
-
+- [Portfolio](https://v3ct0rbug.vercel.app/)
 
 ##
 <div align="center"><br>
